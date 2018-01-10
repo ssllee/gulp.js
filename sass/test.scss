@@ -1,0 +1,11 @@
+@charset "utf-8";
+@import "./sub/common";
+
+body {
+    background-color: $color;
+    font:$HM;
+    height:100px;
+}
+section {
+    font-size: $HS;
+}

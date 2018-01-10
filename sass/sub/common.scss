@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+//定义变量 
+$color: #000;
+$HS: 16px;
+$HM: 14px;
+
+
+//设置默认变量  可覆盖默认如下：
+$baseLineHeight: 2;
+$baseLineHeight: 1.5 !default;
+
+* {
+    margin: 0;
+    padding: 0;
+}
